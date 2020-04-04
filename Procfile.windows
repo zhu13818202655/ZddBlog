@@ -1,1 +1,1 @@
-web: python manage.py runserver localhost:8000
+work: python manage.py runserver localhost:8000

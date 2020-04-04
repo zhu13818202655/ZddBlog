@@ -1,1 +1,1 @@
-web: gunicorn ZddBlog.wsgi --log-file -
+work: gunicorn ZddBlog.wsgi --log-file -
