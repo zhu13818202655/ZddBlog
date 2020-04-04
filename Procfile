@@ -1,0 +1,1 @@
+web: gunicorn ZddBlog.wsgi --log-file -
