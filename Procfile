@@ -1,2 +1,2 @@
-web: gunicorn ZddBlog.wsgi --log-file -
-web: gunicorn manage:app
+web: gunicorn ZddBlog.wsgi
+web: gunicorn blog:app
